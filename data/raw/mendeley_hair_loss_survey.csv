@@ -1,0 +1,717 @@
+Timestamp,What is your name ?,What is your age ?,What is your gender ?,Do you have hair fall problem ?,Is there anyone in your family having a hair fall problem or a baldness issue?,Did you face any type of chronic illness in the past?,Do you stay up late at night?,Do you have any type of sleep disturbance?,Do you think that in your area water is a reason behind hair fall problems?,"Do you use chemicals, hair gel, or color in your hair?",Do you have anemia?,Do you have too much stress,What is your food habit
+5/22/2023 10:35:54,Mahfuj Sikder Arnob,22,Male,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Both
+5/23/2023 10:34:34,Tonmoy,18,Male,No,No,No,No,No,Yes,Yes,No,No,Both
+5/23/2023 10:35:38,Sayeed Dewan,25,Male,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Both
+5/23/2023 10:37:05,Abdullah,17,Male,No,No,No,Yes,No,Yes,No,Yes,Yes,Both
+5/24/2023 10:23:09,Jamal Hasan,28,Male,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Nutritious
+5/24/2023 10:28:07,Saimur,23,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Both
+5/24/2023 10:28:17,Md. Ibrahim Kholil,23,Male,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Both
+5/24/2023 10:28:22,Nafis,22,Male,No,Yes,Yes,No,No,No,No,Yes,Yes,Both
+5/24/2023 10:28:28,Afreul Kaium Joy,23,Male,No,Yes,Yes,No,No,No,Yea,Yes,Yes,Both
+5/24/2023 10:29:22,Khatuna Mashura,23,Female,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Nutritious
+5/24/2023 10:30:13,Mahadi Hassan,24,Male,No,Yes,No,Yes,No,No,No,No,Yes,Dependent on fast food
+5/24/2023 10:30:14,Sadia afrin satu,22,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+5/24/2023 10:32:15,Shahin Alam,20,Male,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Both
+5/24/2023 10:34:59,Sheikh Fahim Karzon,23,Male,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Both
+5/24/2023 11:19:24,Antho ghosh,22,Male,No,Yes,No,No,No,Yes,No,No,Yes,Both
+5/24/2023 22:33:54,Shadin Hasan,17,Male,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Both
+5/24/2023 22:37:31,Aiam,17,Male,No,Yes,No,No,No,No,Yes,Yes,Yes,Nutritious
+5/24/2023 22:38:25,Seyam,23,Male,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Both
+5/24/2023 22:52:12,Shariar Ahmed Jeet,16,Male,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Both
+5/24/2023 22:59:39,MD Rohejul Islam Hemal,21,Male,Yes,No,No,Yes,No,Yes,No,No,Yes,Both
+5/24/2023 23:10:55,Maria,17,Female,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Both
+5/24/2023 23:31:25,Imtiaz,17,Male,Yes,Yes,No,No,Yes,No,No,Yes,No,Both
+5/24/2023 23:48:04,Sayem Hosen,22,Male,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Both
+5/25/2023 0:25:01,MD Muktar Hossan,30,Male,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Nutritious
+5/25/2023 0:27:22,MD Maynul Hoque,30,Male,No,Yes,No,Yes,No,No,No,No,Yes,Both
+5/25/2023 9:20:57,Md.Habibur Rahman,23,Male,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Both
+5/27/2023 22:53:27,Topu,19,Male,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Both
+5/27/2023 22:55:30,Rafin,19,Male,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Both
+5/31/2023 10:49:14,MD SADMAN SADIK,20,Male,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Both
+5/31/2023 10:49:25,Md. Esrat Hossan,22,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+5/31/2023 10:49:48,Md Naeem Sheikh,21,Male,No,Yes,No,No,No,No,No,No,Yes,Both
+5/31/2023 10:50:00,Sadi Mahmud Hasan Shohan,23,Male,No,Yes,Yes,Yes,No,No,No,Yes,No,Dependent on fast food
+5/31/2023 10:50:01,Anik Podder,23,Male,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Both
+5/31/2023 10:51:07,MD Anon Mehbub,24,Male,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Both
+5/31/2023 10:51:35,Sakil Ahmed,21,Male,Yes,No,No,No,No,Yes,No,No,Yes,Nutritious
+5/31/2023 10:52:02,Abu Raihan,23,Male,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Both
+5/31/2023 10:52:45,Md.Adnan-E- Elahe,23,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+5/31/2023 10:52:47,Tonmoy,22,Male,No,No,Yes,No,No,Yes,No,No,Yes,Both
+5/31/2023 10:52:55,Toki sayham shohan,24,Male,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Nutritious
+5/31/2023 10:53:14,Ahte Shamul Hasan Dipto,23,Male,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Both
+5/31/2023 10:53:27,Abdullah Al Mueen,21,Male,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Both
+5/31/2023 10:53:39,Md Reazul Islam,21,Male,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Both
+5/31/2023 10:53:41,Amir Hamza,24,Male,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Both
+5/31/2023 10:55:31,Shahriar khan Alvi,25,Male,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Both
+5/31/2023 10:56:33,Sabbir Hossain,22,Male,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Both
+5/31/2023 10:57:23,Nurjahan Nowshin,22,Female,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Both
+5/31/2023 11:04:31,Anika,21,Female,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Both
+5/31/2023 11:05:43,Abu Tahim Habiby,22,Male,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Both
+5/31/2023 14:13:59,Mirza Md. Abir,23,Male,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Both
+5/31/2023 14:17:01,Joy Mollik Ratul,22,Male,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Both
+5/31/2023 14:18:58,Shakirul Alam,23,Male,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Both
+5/31/2023 14:19:13,Sadman Sadik Khan,22,Male,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Both
+5/31/2023 14:19:57,Shahriar,23,Male,No,Yes,No,Yes,No,No,No,No,Yes,Both
+5/31/2023 14:20:08,Md. Tanbir hossain,23,Male,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Both
+5/31/2023 14:20:09,Srijon Ashraf Zim,23,Male,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Both
+5/31/2023 14:21:31,Mahbub Alam,22,Male,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Both
+5/31/2023 14:21:48,Nabila Islam Moriam,23,Female,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Both
+5/31/2023 14:23:21,Durjoy,22,Male,No,Yes,Yes,Yes,No,No,No,No,No,Nutritious
+5/31/2023 14:59:36,Syed Nazil Al Ahad,24,Male,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Both
+5/31/2023 15:24:11,Anamika Roy,22,Female,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Both
+5/31/2023 15:49:19,Parvaj  Kazi,24,Male,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Both
+5/31/2023 17:10:37,Md.Toufiq Imrog,22,Male,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Both
+5/31/2023 18:04:18,GM Musfiqur Rahman,22,Male,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Dependent on fast food
+5/31/2023 21:26:05,Jannatul Ferdous,23,Female,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Both
+6/4/2023 16:53:10,Jabir Mahmud,22,Male,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Dependent on fast food
+6/4/2023 16:53:43,Adib Hasan,22,Male,No,Yes,No,Yes,No,No,No,No,Yes,Both
+6/4/2023 16:53:57,Tagar Roy,22,Male,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Both
+6/4/2023 16:53:58,Abir Hossain,21,Male,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Both
+6/4/2023 16:54:02,Abdullah Al Mohimanul,22,Male,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Both
+6/4/2023 16:54:07,RAHAT,23,Male,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Both
+6/4/2023 16:54:15,Md.Shafiqul Islam,21,Male,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Both
+6/4/2023 16:54:18,alamin,21,Male,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Both
+6/4/2023 16:54:19,Md. Shahriar Rahman,21,Male,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Both
+6/4/2023 16:54:35,Joyanta Kumar sarker,22,Male,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Both
+6/4/2023 16:54:37,Tapu Roy,23,Male,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Both
+6/4/2023 16:54:40,Md.Bilayet Hossain,22,Male,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Both
+6/4/2023 16:55:15,Audity Rani Paul,21,Female,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Both
+6/4/2023 16:56:02,Shoaib hossain,21,Male,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Dependent on fast food
+6/4/2023 16:56:27,Md.Abubakar Rahman,22,Male,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Both
+6/4/2023 16:56:34,Md. Sazzadul Islam,22,Male,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Both
+6/4/2023 16:57:11,Ferdous Mosarof,21,Male,No,Yes,Yes,Yes,No,No,No,No,Yes,Nutritious
+6/4/2023 16:57:26,Rakibul Hassan,23,Male,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Nutritious
+6/4/2023 16:57:29,Alrazi Talukder,22,Male,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Both
+6/4/2023 16:57:30,Jahid Hasan Siam,21,Male,No,Yes,No,No,Yes,No,No,Yes,Yes,Both
+6/4/2023 16:57:31,Azmyeen Al Labib,21,Male,No,No,Yes,Yes,No,Yes,No,No,Yes,Both
+6/4/2023 16:58:47,Mobasshir Rahman,22,Male,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Both
+6/4/2023 16:59:48,Md. Rakibul islam,23,Male,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Both
+6/4/2023 16:59:56,MD: Nura Mohaddes Nasib,22,Male,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Both
+6/5/2023 22:56:18,Sojib Kumar Biswas,21,Male,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Both
+6/6/2023 9:29:49,Md.Bilayet Hossain,22,Male,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Both
+6/6/2023 16:16:44,Md Anon Mehbuh,24,Male,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Both
+6/22/2023 12:00:46,Aadi,20,Male,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Both
+6/22/2023 12:02:30,Ahil,19,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Dependent on fast food
+6/22/2023 12:03:37,Delawer,23,Male,Yes,No,No,Yes,Yes,No,No,No,Yes,Both
+6/22/2023 12:04:30,Nishad,18,Male,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Both
+6/22/2023 12:06:00,Rohan,18,Male,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Both
+6/22/2023 12:06:52,Pappo,19,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Dependent on fast food
+6/22/2023 12:07:48,Didarul Islam,21,Male,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Both
+6/22/2023 12:08:48,Taskin,18,Male,No,No,No,No,No,Yes,Yes,No,Yes,Nutritious
+6/22/2023 12:11:02,Rejaul korim tipu,25,Male,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Both
+6/22/2023 12:12:25,Sazzad molla,27,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Dependent on fast food
+6/22/2023 12:13:09,Apu sorkar,29,Male,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Dependent on fast food
+6/22/2023 12:14:05,Sohag molla,30,Male,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Nutritious
+6/22/2023 12:14:51,Rumi,32,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Nutritious
+6/22/2023 12:16:06,Bulbul,35,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+6/22/2023 12:16:24,Maksudul,35,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+8/1/2023 20:26:17,Amitab Hasan,25,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Nutritious
+8/1/2023 20:26:54,Hasib,28,Male,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Dependent on fast food
+8/1/2023 20:27:31,Akib,26,Male,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Both
+8/1/2023 20:28:21,Reshad,20,Male,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Both
+8/1/2023 20:29:53,Shibly,30,Male,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Both
+8/1/2023 20:30:37,Mobarok,30,Male,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Both
+8/1/2023 20:31:29,Mosarof,29,Male,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Dependent on fast food
+8/1/2023 20:32:31,Munjo,29,Male,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Both
+8/1/2023 20:33:05,Azad,26,Male,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Dependent on fast food
+8/1/2023 20:34:07,Rakib,21,Male,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Dependent on fast food
+8/1/2023 20:35:05,Siam,20,Male,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Both
+8/1/2023 20:37:04,Razzak,30,Male,Yes,Yes,No,No,No,No,No,No,Yes,Both
+8/1/2023 20:37:57,Giash uddin,30,Male,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Nutritious
+8/1/2023 20:38:50,Kamrul,28,Male,Yes,Yes,No,No,No,No,No,Yes,Yes,Dependent on fast food
+8/1/2023 20:39:41,Roton,29,Male,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Both
+8/1/2023 20:40:27,Bacchu,30,Male,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Both
+8/1/2023 20:42:20,Amimul,25,Male,No,Yes,No,Yes,Yes,No,No,No,Yes,Both
+8/1/2023 20:43:08,Baten,30,Male,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Nutritious
+8/1/2023 20:43:52,Sofi,27,Male,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Both
+8/1/2023 20:44:42,Kabbo,22,Male,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Dependent on fast food
+8/1/2023 20:45:28,Motin,27,Male,No,No,No,Yes,Yes,Yes,No,No,Yes,Dependent on fast food
+8/1/2023 20:46:08,Mafi,26,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+8/1/2023 20:46:47,Mofty,29,Male,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Both
+8/1/2023 20:47:36,Umaid Hasan,28,Male,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Both
+8/1/2023 20:48:33,Nafi,24,Male,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Dependent on fast food
+8/1/2023 20:49:15,Injam,30,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+8/4/2023 13:20:23,Aminul,26,Male,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Both
+8/4/2023 13:24:23,Atikur,30,Male,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Nutritious
+8/4/2023 13:25:11,Sadikur,29,Male,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Dependent on fast food
+8/4/2023 13:25:55,Mabur,25,Male,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Both
+8/4/2023 13:27:05,Salauddi,28,Male,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Dependent on fast food
+8/4/2023 13:27:55,Sabir Hasan,24,Male,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Nutritious
+8/4/2023 13:29:02,Nabil,20,Male,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Dependent on fast food
+8/4/2023 13:30:17,Anas,27,Male,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Both
+8/4/2023 13:32:33,Tarek,28,Male,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Both
+8/4/2023 13:33:15,Kabbo,24,Male,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Dependent on fast food
+8/4/2023 13:33:56,Anto,25,Male,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Dependent on fast food
+8/4/2023 13:34:36,Asif,27,Male,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Both
+8/4/2023 13:35:18,Sohel,30,Male,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Both
+8/4/2023 13:35:54,Miraz,24,Male,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Dependent on fast food
+8/4/2023 13:36:28,Sohag,30,Male,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Both
+8/4/2023 13:37:23,Sakil,28,Male,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Nutritious
+8/4/2023 13:38:05,Sakib khan,30,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+8/4/2023 13:38:38,Bappi,28,Male,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Dependent on fast food
+8/4/2023 13:39:26,Arfin nisho,30,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+8/4/2023 13:40:32,Azim mridha,24,Male,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Dependent on fast food
+8/4/2023 13:41:01,Rahin khan,26,Male,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Dependent on fast food
+8/4/2023 13:41:39,Tanin,27,Male,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Nutritious
+8/4/2023 13:42:09,Majedul,25,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+8/4/2023 13:43:00,Alfi hasan,23,Male,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Nutritious
+8/4/2023 13:52:13,Rizvi,25,Male,No,Yes,No,Yes,Yes,No,No,No,Yes,Dependent on fast food
+8/4/2023 13:53:05,Mosfiqur,30,Male,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Both
+8/4/2023 13:53:53,Shaharir hasan,20,Male,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Dependent on fast food
+8/4/2023 13:54:17,Jeet,21,Male,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Dependent on fast food
+8/4/2023 13:55:07,Shadin Hasan,21,Male,No,No,Yes,Yes,No,Yes,No,No,Yes,Dependent on fast food
+8/4/2023 13:56:16,Tuhidul islam,29,Male,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Nutritious
+8/4/2023 13:56:48,Ariful hasan,27,Male,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Nutritious
+8/4/2023 14:27:25,Soikot khan,25,Male,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Both
+8/4/2023 14:27:52,Tanvir,23,Male,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Both
+8/4/2023 14:28:27,Niaz khan,24,Male,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,Nutritious
+8/4/2023 14:29:23,Monnem islam,25,Male,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Both
+8/4/2023 14:30:05,Saiful,24,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Dependent on fast food
+8/4/2023 14:30:34,Sumon,27,Male,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Dependent on fast food
+8/4/2023 14:31:17,Sadman,27,Male,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Both
+8/4/2023 14:34:54,Riad,27,Male,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Nutritious
+8/4/2023 14:37:05,Shourov,25,Male,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Both
+8/4/2023 14:37:54,Shishir,24,Male,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Dependent on fast food
+8/4/2023 14:40:38,Abdul,25,Male,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Both
+8/4/2023 14:41:16,Parvez,27,Male,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Both
+8/4/2023 14:42:33,Goffer,28,Male,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Nutritious
+8/4/2023 14:43:25,Pevel,29,Male,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Nutritious
+8/4/2023 14:44:16,Noman,26,Male,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Dependent on fast food
+8/4/2023 14:44:51,Abir khan,22,Male,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Dependent on fast food
+8/6/2023 13:37:46,Sonnet,25,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Both
+8/6/2023 13:38:45,Zakaria,28,Male,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Dependent on fast food
+8/6/2023 13:40:25,Rimon shekh,28,Male,Yes,Yes,No,No,No,No,No,No,Yes,Nutritious
+8/6/2023 13:41:48,Sojib Bormon,29,Male,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Dependent on fast food
+8/19/2023 15:49:21,Aariv,26,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+8/19/2023 15:50:00,Srijon,30,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+8/19/2023 15:50:45,Rajiv,20,Male,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Nutritious
+8/19/2023 15:51:14,Sagnik,22,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Dependent on fast food
+8/19/2023 15:51:52,Rajdep,18,Male,No,No,No,No,No,No,No,No,No,Nutritious
+8/19/2023 15:52:34,Pratik,27,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Dependent on fast food
+8/19/2023 15:53:05,Ronit,19,Male,No,No,No,No,No,No,Yes,No,No,Both
+8/19/2023 15:53:34,Pralay,21,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+8/19/2023 15:55:02,Pritom,15,Male,No,No,No,No,No,No,Yes,No,No,Nutritious
+8/19/2023 15:55:40,Provat,16,Male,No,No,No,No,No,No,Yes,No,No,Nutritious
+8/19/2023 15:56:09,Nevan,18,Male,No,No,No,Yes,No,No,Yes,No,No,Both
+8/19/2023 15:56:47,Neel,15,Male,No,No,No,No,No,No,Yes,No,No,Nutritious
+8/19/2023 15:57:19,Mridul,28,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+8/19/2023 15:57:55,Jyoti,29,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+8/19/2023 15:58:23,Isan,25,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+8/19/2023 15:58:53,Indrojit,28,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+8/19/2023 15:59:30,Ashan,25,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Dependent on fast food
+8/19/2023 16:00:27,Bipul,30,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+8/19/2023 16:00:57,Debojit,24,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+8/19/2023 16:01:25,Indrojit,26,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+8/19/2023 16:02:38,Diponkor,27,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+8/19/2023 16:03:03,Osman,30,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+8/19/2023 16:03:30,Debashish,24,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+8/19/2023 16:04:15,Sid,27,Male,Yes,Yes,Yes,No,No,No,Yes,No,No,Nutritious
+8/19/2023 16:05:04,Ayan,16,Male,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Nutritious
+8/19/2023 16:05:41,Kayser,19,Male,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Both
+8/19/2023 16:06:14,Pranto,26,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+8/19/2023 16:06:50,Morsalin,26,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+8/19/2023 16:07:20,Altaf komar,29,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+8/19/2023 16:07:54,Sohan,15,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Nutritious
+8/19/2023 16:08:49,Bipin,29,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+8/19/2023 16:09:28,Ishayu,17,Male,No,No,No,No,No,Yes,Yes,No,Yes,Both
+8/23/2023 11:21:53,Mehan,17,Male,No,No,No,Yes,No,No,Yes,No,No,Both
+8/23/2023 11:22:27,Nahid,28,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Nutritious
+8/23/2023 11:22:59,Bodrul,30,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+8/23/2023 11:23:28,Aaman,30,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+8/23/2023 11:23:56,Roshid,29,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+8/23/2023 11:24:31,Rigan,22,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+8/23/2023 11:25:21,Sowmik,27,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+8/23/2023 11:26:03,Polash,29,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+8/26/2023 21:14:00,Mitho,19,Male,No,No,No,No,No,No,Yes,No,No,Both
+8/26/2023 21:14:46,Sathi,18,Female,No,No,No,No,No,No,Yes,No,No,Both
+8/27/2023 9:35:58,Ahana,15,Female,No,No,No,No,No,No,Yes,No,No,Both
+8/27/2023 9:36:42,Arnabi,16,Female,No,No,No,No,No,No,No,No,No,Both
+8/27/2023 9:37:10,Abha,17,Female,No,No,No,No,No,No,Yes,No,No,Nutritious
+8/27/2023 9:37:44,Adhika,17,Female,No,No,No,No,No,No,Yes,No,No,Both
+8/27/2023 9:38:17,Adhira,17,Female,No,No,No,No,No,No,Yes,No,No,Both
+8/27/2023 9:38:46,Anima,18,Female,No,No,No,No,No,No,Yes,No,No,Both
+8/27/2023 9:39:21,Anushi,21,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+8/27/2023 9:40:00,Anushka,18,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+8/27/2023 9:40:57,Archisha,15,Female,No,No,No,No,Yes,No,Yes,No,No,Both
+8/27/2023 9:41:33,Arishi,16,Female,No,No,No,Yes,No,No,Yes,No,No,Both
+8/27/2023 9:42:05,Asmi,18,Female,No,No,No,No,Yes,No,Yes,No,No,Nutritious
+8/27/2023 9:42:36,Avya,19,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Dependent on fast food
+8/27/2023 9:43:19,Baishali,22,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+8/27/2023 9:43:47,Barsha,29,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+8/27/2023 9:44:20,Bipasha,30,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+8/27/2023 9:44:53,Depta,28,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+8/27/2023 9:45:21,Deshna,18,Female,No,No,No,No,No,No,Yes,No,No,Nutritious
+8/27/2023 9:45:49,Dipika,19,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Dependent on fast food
+8/27/2023 9:46:31,Divyana,16,Female,No,No,No,No,No,No,No,No,No,Both
+8/27/2023 9:47:35,Dritika,18,Female,No,No,No,No,No,No,No,No,\No,Nutritious
+8/27/2023 9:48:08,Gitanjoli,16,Female,No,No,No,No,No,No,No,No,No,Both
+8/27/2023 9:48:39,Gungun,19,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+8/27/2023 9:49:03,Gini,27,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Dependent on fast food
+8/27/2023 9:49:36,Mini,20,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Dependent on fast food
+8/27/2023 9:50:20,Hridaya,16,Female,No,No,No,No,No,No,No,No,No,Both
+8/27/2023 9:51:04,Iditri,15,Female,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Both
+8/27/2023 9:51:31,Indrani,29,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Nutritious
+8/27/2023 9:51:59,Ira,23,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Dependent on fast food
+8/27/2023 9:52:28,Ishi,19,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Nutritious
+8/27/2023 9:52:57,Ishika,26,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Dependent on fast food
+8/27/2023 9:53:29,Manali,30,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+8/27/2023 9:54:03,Manjari,27,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Nutritious
+8/27/2023 9:54:53,Minakhshi,25,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+8/27/2023 9:55:21,Mehuli,19,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Nutritious
+8/27/2023 9:55:56,Minoti,23,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+8/27/2023 9:56:21,Misti,28,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Dependent on fast food
+8/27/2023 9:57:08,Noksha,24,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Dependent on fast food
+8/27/2023 9:57:39,Noyonika,29,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Dependent on fast food
+8/27/2023 9:58:06,Nilima,24,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+8/27/2023 9:59:04,Nirupoma,16,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Dependent on fast food
+8/27/2023 10:00:46,Pankhuri,18,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Dependent on fast food
+8/27/2023 10:01:16,Phalak,20,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Dependent on fast food
+8/27/2023 10:02:52,Pingla,19,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Nutritious
+8/27/2023 10:03:32,Piyali,19,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+8/27/2023 10:03:59,Protima,29,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+8/27/2023 10:04:36,Pratyusha,19,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+8/27/2023 10:05:08,Pritika,23,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+8/27/2023 10:05:39,Protisha,19,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+8/27/2023 10:06:33,Priyadarshini,16,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+8/27/2023 10:07:01,Raima,30,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+8/27/2023 10:07:31,Ridhima,22,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+8/27/2023 10:07:58,Rima,30,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+8/27/2023 10:08:25,Rimpi,22,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+8/27/2023 10:09:05,Ruchira,24,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+8/27/2023 10:09:41,Sagnika,28,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+8/27/2023 10:10:09,Saija,28,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+8/27/2023 10:11:14,Samriddhi,26,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Nutritious
+8/27/2023 10:12:46,Satviki,26,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+8/27/2023 10:13:30,Saumi,29,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+8/27/2023 10:14:01,Shagun,26,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+8/27/2023 10:14:25,Shayna,29,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+8/27/2023 10:14:55,Shibani,26,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+8/27/2023 10:15:24,Shikha,25,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Dependent on fast food
+8/27/2023 10:15:51,Shirin,28,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+8/27/2023 10:16:28,Smriti,26,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+8/27/2023 10:17:11,Sneha,16,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+8/27/2023 10:17:44,Snigdha,26,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+8/27/2023 10:18:16,Sonali,25,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+8/27/2023 10:18:42,Srija,21,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+8/27/2023 10:19:35,Srijita,16,Female,No,No,No,No,No,No,No,No,No,Nutritious
+8/27/2023 10:20:14,Srisha,30,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+8/27/2023 10:20:51,Sruti,20,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+8/27/2023 10:21:24,Suditi,26,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+8/27/2023 10:21:53,Sumona,20,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+8/27/2023 10:23:21,Suravi,20,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+9/4/2023 15:11:42,Abdul,30,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+9/19/2023 11:44:40,Kabir Sarker,23,Male,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Both
+9/19/2023 11:45:34,Ikbal,24,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 11:45:52,Amala,21,Female,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Nutritious
+9/19/2023 11:46:04,Mahmud,29,Male,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 11:46:32,Mamun Mondol,19,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 11:46:35,Ashni,28,Female,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 11:47:08,Mohammad Sayed Al Hasan,20,Male,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 11:47:10,Bashira,15,Female,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Both
+9/19/2023 11:47:36,Musafa Hasan,28,Male,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Both
+9/19/2023 11:47:48,Chahna,30,Female,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 11:48:08,Nazmul Sikder,25,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 11:48:27,Damini,28,Female,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 11:48:35,Umar Al Hafiz,26,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Both
+9/19/2023 11:49:10,Devi,24,Female,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Dependent on fast food
+9/19/2023 11:49:18,Rahman Al Hasan Mahmud,16,Male,No,Yes,No,No,No,No,Yes,No,No,Nutritious
+9/19/2023 11:49:49,Sayed Imran,20,Male,No,No,No,No,No,No,No,No,No,Both
+9/19/2023 11:49:58,Farzana,16,Female,No,Yes,No,No,No,No,No,No,No,Nutritious
+9/19/2023 11:50:17,Sharif Sarker,28,Male,No,No,No,Yes,No,No,Yes,No,No,Nutritious
+9/19/2023 11:50:29,Fatima,30,Female,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 11:50:45,Sumon Talukder,27,Male,No,No,No,No,No,No,No,No,Yes,Nutritious
+9/19/2023 11:51:21,Hasna,30,Female,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Both
+9/19/2023 11:51:29,Kamal Sarker,23,Male,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Dependent on fast food
+9/19/2023 11:51:53,Indrani,27,Female,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 11:51:59,Lenin Hasan,27,Male,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Both
+9/19/2023 11:52:34,Kalindi,15,Female,Yes,Yes,No,No,No,No,Yes,No,No,Dependent on fast food
+9/19/2023 11:53:09,Nadir Hasan,23,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Both
+9/19/2023 11:53:40,Leela,19,Female,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Dependent on fast food
+9/19/2023 11:53:48,Robiul Musafa,29,Male,No,Yes,No,No,No,No,No,No,No,Both
+9/19/2023 11:54:18,Meena,15,Female,Yes,No,No,No,No,Yes,Yes,No,No,Both
+9/19/2023 11:54:38,Sultan Mohammad Sharafat,28,Male,No,Yes,No,No,No,No,No,No,No,Both
+9/19/2023 11:54:57,Nadira,17,Female,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Dependent on fast food
+9/19/2023 11:55:20,Tanjim Ferdous,27,Male,No,No,No,Yes,No,No,No,No,No,Nutritious
+9/19/2023 11:55:27,Nadia,15,Female,No,No,No,Yes,Yes,No,Yes,No,Yes,Nutritious
+9/19/2023 11:55:53,Simul Dewan,28,Male,No,No,No,No,No,No,No,No,No,Both
+9/19/2023 11:56:05,Parvoti,30,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+9/19/2023 11:56:49,Rubi,27,Female,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Nutritious
+9/19/2023 11:57:30,Sadia,24,Female,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Both
+9/19/2023 11:57:46,Afreul Shehdab,28,Male,No,No,No,Yes,No,No,No,No,No,Both
+9/19/2023 11:58:11,Sultana,30,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+9/19/2023 11:58:26,Arush Mahmud,19,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+9/19/2023 11:59:06,Tania,27,Female,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 11:59:23,Mosammad Nasumn,20,Male,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Both
+9/19/2023 11:59:45,Aliza,30,Female,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Nutritious
+9/19/2023 11:59:57,Motaleb Shikder,18,Male,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Both
+9/19/2023 12:00:21,Arthi,15,Female,No,Yes,No,No,No,No,Yes,No,No,Both
+9/19/2023 12:00:26,Nazim Khan,19,Male,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Both
+9/19/2023 12:00:53,Arti,19,Female,Yes,Yes,No,No,No,Yes,Yes,No,No,Dependent on fast food
+9/19/2023 12:00:54,Moinul Islam,28,Male,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Both
+9/19/2023 12:01:24,Oshim Hayder,28,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 12:01:30,Artika,15,Female,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 12:01:54,Rafsan Ali,28,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+9/19/2023 12:02:04,Aru,22,Female,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 12:02:26,Ali Ahsan,26,Male,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Both
+9/19/2023 12:02:35,Aruhi,17,Female,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 12:02:59,Nazrul Islam,26,Male,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Both
+9/19/2023 12:03:14,Aruna,27,Female,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Dependent on fast food
+9/19/2023 12:03:30,Joy Mahmud,26,Male,No,No,No,No,No,No,No,No,No,Nutritious
+9/19/2023 12:03:57,Arunima,30,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+9/19/2023 12:03:59,Jahangir Khan,23,Male,No,No,No,Yes,No,No,No,No,No,Nutritious
+9/19/2023 12:05:20,Mohammad Siraz,27,Male,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Nutritious
+9/19/2023 12:05:27,Arusha,25,Female,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 12:05:58,Shimul Saha,25,Male,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 12:06:02,Arvi,19,Female,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Dependent on fast food
+9/19/2023 12:06:51,Sopnil Saha,27,Male,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 12:07:06,Arya,15,Female,No,Yes,No,No,No,No,Yes,No,No,Nutritious
+9/19/2023 12:07:15,Rubel Haque,26,Male,No,No,No,No,No,No,Yes,No,No,Both
+9/19/2023 12:08:01,Sabiha Rahman,27,Female,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Both
+9/19/2023 12:08:08,Nahar khan,25,Female,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Both
+9/19/2023 12:08:30,Solaiman Kabir,27,Male,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 12:09:00,Asma Hayder,27,Female,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 12:09:01,Md Kabir Shahriar,25,Male,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Dependent on fast food
+9/19/2023 12:09:40,Farhan Al Hasan,20,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Nutritious
+9/19/2023 12:09:59,Rafisa Ali,21,Female,Yes,No,No,No,Yes,Yes,Yes,No,No,Both
+9/19/2023 12:10:25,Sehzab Hasan,26,Male,No,No,No,No,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 12:10:38,Asia khanum,30,Female,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Both
+9/19/2023 12:10:52,Norendra Nath,27,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Dependent on fast food
+9/19/2023 12:11:21,Sultanus Salehin,19,Male,No,Yes,No,No,No,No,No,No,No,Dependent on fast food
+9/19/2023 12:11:32,Syeda Rahman,22,Female,No,Yes,No,Yes,Yes,No,No,No,Yes,Dependent on fast food
+9/19/2023 12:11:58,Sheikh Afreul Hamid,28,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Nutritious
+9/19/2023 12:12:28,Afsana Setu,27,Female,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Dependent on fast food
+9/19/2023 12:12:58,Ahsanul Alam,28,Male,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Both
+9/19/2023 12:13:25,Farhana,26,Female,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 12:14:27,Khairul Islam,30,Male,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Both
+9/19/2023 12:14:33,Shahnaz Parveen,29,Female,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Both
+9/19/2023 12:14:56,Bashar Uddin,20,Male,No,No,No,No,No,No,No,No,No,Nutritious
+9/19/2023 12:15:18,Sultanus Salehin,23,Female,Yes,No,No,Yes,Yes,Yes,No,No,No,Both
+9/19/2023 12:15:27,Bahir Alam,27,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 12:15:57,Sultana Nasira,25,Female,Yes,Yes,No,No,No,Yes,Yes,No,No,Both
+9/19/2023 12:16:02,Mohammad Nazrul,28,Male,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Both
+9/19/2023 12:16:36,Rizvi Al Mahmud,22,Male,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Both
+9/19/2023 12:16:43,Afroza Jahan,28,Female,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Both
+9/19/2023 12:17:18,Sunirban Roy,20,Male,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Both
+9/19/2023 12:17:53,Ishrat Zareen,30,Female,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Both
+9/19/2023 12:18:08,Sudipto Roy,28,Male,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Both
+9/19/2023 12:18:54,Sudipa Barua,15,Female,No,Yes,No,No,No,No,No,No,No,Nutritious
+9/19/2023 12:20:09,Masuda Begum,30,Female,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Dependent on fast food
+9/19/2023 12:20:35,Masud Hasan,28,Male,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 12:21:14,Abdul Hafiz,28,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+9/19/2023 12:21:58,Marin khanam,20,Female,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Dependent on fast food
+9/19/2023 12:22:23,Gourango Lal,27,Male,No,No,No,No,No,No,No,No,No,Both
+9/19/2023 12:22:51,Jafranul Akter,25,Female,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Dependent on fast food
+9/19/2023 12:23:38,Afroza Yesmin,30,Female,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Both
+9/19/2023 12:24:32,Jiasmin Ara,22,Female,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Nutritious
+9/19/2023 12:25:24,Shibli,15,Female,Yes,Yes,No,No,No,No,No,No,No,Nutritious
+9/19/2023 12:26:07,Salma Islam,30,Female,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 12:27:08,Marfia Naznin,25,Female,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Both
+9/19/2023 12:27:58,Mahmuda Hashem,28,Female,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 12:29:20,Manaura soneya,22,Female,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 12:30:22,Fahida Sultana,28,Female,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Both
+9/19/2023 12:31:29,Shejuti Roy,21,Female,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Dependent on fast food
+9/19/2023 12:33:16,Sufia khatun,23,Female,Yes,No,No,Yes,Yes,No,Yes,No,No,Dependent on fast food
+9/19/2023 12:35:24,Adina Binte Siddique,30,Female,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 12:40:14,Shah Islam,20,Male,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Both
+9/19/2023 12:40:40,Shah Bulbul,28,Male,No,Yes,No,No,No,Yes,No,No,No,Both
+9/19/2023 12:41:08,Moin Uddin,29,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 12:41:52,Azmal Uddin,29,Male,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 12:42:22,Tafazzol Uddin,27,Male,No,Yes,No,No,No,No,No,No,No,Nutritious
+9/19/2023 12:43:46,Mohammad Moinul,28,Male,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Both
+9/19/2023 12:45:09,Romiz Uddin,26,Male,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Dependent on fast food
+9/19/2023 12:45:35,Jui Khan,27,Female,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Both
+9/19/2023 12:46:09,Afroza khanom,28,Female,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Both
+9/19/2023 12:47:01,Humayon,27,Male,No,No,No,No,No,Yes,No,No,No,Both
+9/19/2023 12:47:38,Jaismin Ara,21,Female,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Both
+9/19/2023 12:48:02,Muzibor Rahman,27,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Dependent on fast food
+9/19/2023 12:48:28,Shibli Roy,27,Male,No,No,No,No,No,No,Yes,No,No,Nutritious
+9/19/2023 12:49:06,Salman Sheikh,18,Female,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Both
+9/19/2023 12:49:59,Sobuz Sikder,20,Male,No,No,No,No,No,Yes,No,No,No,Nutritious
+9/19/2023 12:52:10,Mahmudur Raan,27,Male,No,No,No,No,No,No,No,No,Yes,Both
+9/19/2023 12:53:44,Nazmul Alam,19,Male,No,No,No,No,No,No,No,No,No,Both
+9/19/2023 12:54:14,Ashraful Alam,21,Male,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Both
+9/19/2023 12:55:01,Md Anowar,20,Male,No,No,No,No,No,No,No,No,No,Both
+9/19/2023 12:56:52,Marfia Naznin,27,Male,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Both
+9/19/2023 12:57:36,Taleb Sarker,23,Male,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 12:58:45,Mahmuda Sumi,26,Female,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 12:59:11,Moin Uddin,29,Male,No,Yes,No,No,Yes,No,No,No,No,Nutritious
+9/19/2023 12:59:38,Azmol Uddin,17,Male,No,No,No,No,No,No,No,No,No,Both
+9/19/2023 13:00:32,Tafazzol Uddin,26,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 13:02:39,Anuz Sheikh,23,Male,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Both
+9/19/2023 13:03:03,Sumaiya Haider,27,Female,No,No,No,No,No,No,Yes,No,No,Nutritious
+9/19/2023 13:03:48,Esmail Yusuf,26,Male,No,No,No,No,No,No,No,No,No,Both
+9/19/2023 13:05:00,Qazi Asif,26,Male,No,No,No,No,No,No,No,No,Yes,Both
+9/19/2023 13:05:34,Qudrat Ali,26,Male,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Both
+9/19/2023 13:06:38,Salehin Mia,27,Female,No,No,No,No,No,No,No,No,No,Both
+9/19/2023 13:09:13,Jubayer Al Piyal,26,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Both
+9/19/2023 13:09:43,Sufuyan Tasnim Ara,27,Female,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Both
+9/19/2023 13:11:51,Ratul Ahmed Khan,25,Female,No,No,No,No,No,No,No,No,Yes,Both
+9/19/2023 13:12:35,Anik Sikder,24,Male,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 13:12:58,Nishat Tahim,24,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 13:13:41,Moyazzem Sikder,30,Male,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Both
+9/19/2023 13:14:31,Shimul Hasan Kamrul,21,Male,Yes,No,No,No,No,No,Yes,Yes,Yes,Both
+9/19/2023 13:14:51,Fahmida,15,Female,No,Yes,No,No,No,Yes,Yes,No,Yes,Nutritious
+9/19/2023 13:15:03,Mustafa Ahmed,21,Male,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 13:16:13,Ahmed Ullah,25,Male,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Both
+9/19/2023 13:16:50,Fakhar Uddin,25,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 13:16:51,Mehedi Antora,26,Female,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Both
+9/19/2023 13:17:18,Jainal Mia,20,Male,No,No,No,No,No,No,No,No,No,Both
+9/19/2023 13:17:23,Lochi,30,Female,Yes,No,No,Yes,Yes,No,No,No,Yes,Both
+9/19/2023 13:17:44,Reza Saha,19,Male,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Both
+9/19/2023 13:18:16,Lipi,29,Female,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 13:19:05,Rimon Khan,22,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 13:19:33,Lily,30,Female,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Both
+9/19/2023 13:19:35,Masud Hasan,27,Male,No,No,No,No,No,Yes,No,No,No,Both
+9/19/2023 13:21:26,Rofiza Khatun,27,Female,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Both
+9/19/2023 13:23:19,Taimur Ismail,24,Male,No,No,No,No,No,No,No,No,No,Both
+9/19/2023 13:24:25,Aysha Haque,26,Male,No,No,No,No,No,No,No,No,No,Both
+9/19/2023 13:24:44,Poly,24,Female,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 13:25:17,Jakir Sarker,16,Male,No,Yes,No,No,No,No,No,No,No,Both
+9/19/2023 13:25:37,Risha,15,Female,No,Yes,No,No,No,No,No,No,No,Dependent on fast food
+9/19/2023 13:25:52,Ratri Afsara,17,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 13:26:23,Shoikot Amin,24,Male,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Both
+9/19/2023 13:27:00,Jakaria Alam,26,Male,No,No,No,No,No,No,No,No,Yes,Both
+9/19/2023 13:27:13,Ruhi,15,Female,No,Yes,No,No,No,No,Yes,No,Yes,Dependent on fast food
+9/19/2023 13:28:38,Julfikar Matin,29,Male,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Both
+9/19/2023 13:29:14,Sheba Haque,20,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 13:29:41,Didarul Islam,25,Male,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Both
+9/19/2023 13:30:07,Shahin Chakroborthy,25,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Both
+9/19/2023 13:30:11,Sutopa,24,Female,No,Yes,No,No,Yes,No,Yes,No,Yes,Both
+9/19/2023 13:30:42,Shahid Sarker,26,Male,No,No,No,No,No,Yes,No,No,No,Dependent on fast food
+9/19/2023 13:31:10,Sornil Roy,19,Female,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Both
+9/19/2023 13:32:22,Siddhartho Goswami,30,Male,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Dependent on fast food
+9/19/2023 13:32:41,Pushpo,25,Female,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 13:32:50,Mohin Sarker,21,Male,No,No,No,No,No,No,No,No,Yes,Both
+9/19/2023 13:33:11,Helal Rahman,26,Male,No,No,No,No,No,No,No,No,No,Dependent on fast food
+9/19/2023 13:33:36,Rafsal Ul Haque,29,Male,No,No,No,No,No,No,No,No,No,Both
+9/19/2023 13:33:46,Soshi,23,Female,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 13:34:04,Swapnil Ahmed,24,Male,No,No,No,No,No,No,No,No,No,Both
+9/19/2023 13:34:34,Mahin Sarker,18,Male,No,No,No,No,No,No,Yes,No,No,Dependent on fast food
+9/19/2023 13:34:41,Sinha Islam,23,Female,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 13:35:06,Roktim Rahman,20,Male,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Both
+9/19/2023 13:35:43,Oshoahi gosh,30,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Dependent on fast food
+9/19/2023 13:37:07,Momena,27,Female,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Both
+9/19/2023 13:37:08,Bhajan Kumar,25,Female,No,No,No,No,No,No,No,No,No,Both
+9/19/2023 13:38:16,Tasib Rahman,25,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Dependent on fast food
+9/19/2023 13:38:29,Kashfiya,24,Female,No,No,No,Yes,Yes,No,No,Yes,Yes,Both
+9/19/2023 13:38:37,Tasnim Shilpokar,27,Male,No,No,No,No,No,No,No,No,No,Both
+9/19/2023 13:39:08,Tripto,29,Male,No,No,No,No,No,No,No,No,No,Both
+9/19/2023 13:39:13,Trishna,26,Female,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Both
+9/19/2023 13:39:37,Onirban Chakroborthy,25,Male,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Dependent on fast food
+9/19/2023 13:39:57,Srabosti,25,Female,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Both
+9/19/2023 13:40:13,Shamima Ara,16,Female,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Both
+9/19/2023 13:40:48,Karisma,30,Female,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 13:41:04,Jibon Sarker,23,Male,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Both
+9/19/2023 13:41:37,Jhuma,218,Female,No,No,No,No,No,No,No,No,No,Both
+9/19/2023 13:41:57,Karima,15,Female,No,Yes,No,No,No,No,No,No,No,Nutritious
+9/19/2023 13:41:59,Mustakin,26,Male,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 13:42:28,Anin julaikha,29,Female,No,No,No,No,No,No,No,No,No,Both
+9/19/2023 13:42:34,Jami,24,Female,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Both
+9/19/2023 13:42:50,Kamrul Sarker,26,Male,No,No,No,No,No,No,No,No,No,Both
+9/19/2023 13:43:10,Fuad Khan,20,Male,No,No,No,No,No,No,No,No,No,Both
+9/19/2023 13:43:38,Rossana Amwar,30,Female,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Both
+9/19/2023 13:43:42,Moneem Islam,17,Male,No,Yes,No,No,No,Yes,No,No,No,Both
+9/19/2023 13:44:18,Joynal Shilpokar,26,Male,Yes,Yes,Yes,No,No,No,No,No,No,Both
+9/19/2023 13:44:42,Azmain Alam,27,Male,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Both
+9/19/2023 13:44:42,Raknin Akter,27,Female,Yes,No,No,No,No,Yes,Yes,No,Yes,Both
+9/19/2023 13:45:03,Ali Forhad,23,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+9/19/2023 13:45:31,Rumaiya Afrin,21,Female,No,No,No,No,No,No,No,No,No,Both
+9/19/2023 13:45:47,Nasren khanam,30,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Dependent on fast food
+9/19/2023 13:46:06,Nurun Sarker,26,Male,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Both
+9/19/2023 13:46:35,Ramina,27,Female,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 13:46:41,Tushar Dewan,20,Male,No,Yes,No,No,No,No,No,No,Yes,Both
+9/19/2023 13:47:11,Sheikh Jhontu,27,Female,No,No,No,No,No,No,No,No,No,Both
+9/19/2023 13:47:36,Sabnin Sumaiya,24,Female,No,Yes,No,No,No,No,No,No,No,Both
+9/19/2023 13:48:14,Mujib Sarker,25,Male,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Both
+9/19/2023 13:48:14,Lufunnesa poly,29,Female,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Both
+9/19/2023 13:48:42,Bulbul Hasan,29,Male,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Both
+9/19/2023 13:49:11,Shompa,21,Female,No,Yes,No,Yes,No,No,No,No,No,Nutritious
+9/19/2023 13:49:24,Tanzila Hasan,24,Female,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Both
+9/19/2023 13:49:46,Sumiha smriti,30,Female,No,No,No,No,No,No,No,No,No,Nutritious
+9/19/2023 13:50:04,Sumu,18,Female,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Nutritious
+9/19/2023 13:50:18,Rimjhim,26,Female,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Both
+9/19/2023 13:50:46,Shofik Ul Roy,21,Male,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Both
+9/19/2023 13:50:54,Bulu Rani Biswas,29,Female,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 13:51:24,Shoriful Sheikh,27,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+9/19/2023 13:52:29,Shilpokar Chakroborthy,24,Female,No,Yes,Yes,No,No,No,No,No,No,Both
+9/19/2023 13:52:34,Sonia Slipokar,27,Female,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 13:53:03,Rishab Amin,27,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 13:54:05,Lucky Akter,26,Male,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Both
+9/19/2023 13:54:07,Sabiha khanum,22,Female,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Both
+9/19/2023 13:55:29,Shifa Haque,29,Female,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Both
+9/19/2023 13:56:01,Dara Abdus Sattar,21,Male,No,No,No,No,No,No,No,No,No,Both
+9/19/2023 13:56:40,Shimanto Biswal,21,Male,No,No,No,No,No,No,No,No,No,Both
+9/19/2023 13:58:11,Nazmus Sattar,30,Male,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Both
+9/19/2023 13:58:11,Toma Mirja,22,Female,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Both
+9/19/2023 14:00:08,Mahmudur Rahman,25,Male,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Both
+9/19/2023 14:00:41,Ashraful Kamal,26,Male,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Both
+9/19/2023 14:00:56,Srity Akter,26,Female,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 14:01:05,Tasnin Baten,26,Male,No,No,No,No,No,No,No,No,No,Nutritious
+9/19/2023 14:01:33,Sheikh Bashak,20,Male,No,No,No,No,No,No,No,No,No,Both
+9/19/2023 14:01:51,Mufti khan,29,Male,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 14:02:38,Efty Hasan,25,Male,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 19:44:48,Fahmida Ahmed Antara,19,Female,Yes,No,No,Yes,No,No,Yes,No,No,Both
+9/19/2023 19:45:23,Kanij Ahmed,16,Female,No,Yes,No,No,No,No,Yes,No,No,Nutritious
+9/19/2023 19:46:03,Mahzuba Islam,26,Female,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Dependent on fast food
+9/19/2023 19:46:51,Fahmid Sadeque,27,Female,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Dependent on fast food
+9/19/2023 19:47:36,Tasnim Ikra Rahman,15,Female,No,No,No,No,No,No,No,No,No,Both
+9/19/2023 19:48:34,Md Sohel Rana,30,Male,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Both
+9/19/2023 19:49:24,Abdullah-Al-Maruf,20,Male,No,No,No,Yes,Yes,No,Yes,No,No,Both
+9/19/2023 19:50:03,Tahmid Sami Rahman,15,Male,No,No,No,No,No,No,No,No,No,Nutritious
+9/19/2023 19:50:41,Abid Anjum Sifat,28,Male,Yes,Yes,No,No,No,Yes,Yes,No,No,Both
+9/19/2023 19:51:22,Golam Rosul,30,Male,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Both
+9/19/2023 19:51:58,Rahnuma Rahman,25,Male,No,Yes,No,Yes,Yes,No,No,No,Yes,Both
+9/19/2023 19:53:00,Ayed Al Sayem,22,Male,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Nutritious
+9/19/2023 19:53:44,Hasibul Hasan,27,Male,Yes,Yes,No,No,No,No,Yes,No,Yes,Both
+9/19/2023 19:54:21,Rakib Hasan,15,Male,No,No,No,No,No,No,No,No,No,Nutritious
+9/19/2023 19:54:56,Abu Shahir,18,Male,No,No,No,Yes,Yes,No,Yes,No,No,Dependent on fast food
+9/19/2023 19:56:13,Khalid Hasan,30,Male,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Both
+9/19/2023 19:57:08,Sudipta Paul,20,Female,No,Yes,No,Yes,Yes,Yes,No,No,No,Both
+9/19/2023 19:57:50,Imrul Kaish,30,Male,Yes,Yes,No,No,No,No,No,No,Yes,Both
+9/19/2023 19:58:35,Habibullah,22,Male,No,No,No,No,No,No,Yes,No,No,Both
+9/19/2023 19:59:22,Sayeedul Islam,27,Male,Yes,No,No,No,No,No,No,No,Yes,Both
+9/19/2023 20:00:16,Enamul Hoque Yousuf,15,Male,No,Yes,No,No,No,No,No,No,No,Nutritious
+9/19/2023 20:01:02,Apan Dastider,16,Male,No,No,No,No,No,No,No,No,No,Both
+9/19/2023 20:01:58,Toaha Anas,20,Male,No,Yes,No,Yes,No,No,Yes,No,No,Both
+9/19/2023 20:03:07,Arnob Ghosh,24,Male,Yes,No,No,No,No,Yes,Yes,No,Yes,Both
+9/19/2023 20:03:42,Khandaker Reaz,15,Male,Yes,Yes,No,No,Yes,No,No,No,No,Nutritious
+9/19/2023 20:04:15,Saud Nikor,18,Male,No,No,No,No,No,No,No,No,No,Nutritious
+9/19/2023 20:04:54,Nazmus Saqib,25,Male,Yes,No,No,Yes,No,No,Yes,No,Yes,Both
+9/19/2023 20:05:52,Disha Biswas,24,Female,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Both
+9/19/2023 20:06:23,Ramjan Ali,29,Male,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Both
+9/19/2023 20:07:13,Shamima Hossain,15,Female,No,No,No,No,No,No,No,No,No,Nutritious
+9/19/2023 20:08:09,Junaed Al Hossain,25,Male,Yes,No,No,No,No,No,Yes,No,No,Dependent on fast food
+9/19/2023 20:09:10,Anika Tabassum Priyoti,18,Female,No,Yes,No,Yes,No,No,No,No,No,Both
+9/19/2023 20:10:08,Farhan Sadik Sium,15,Male,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Nutritious
+9/19/2023 20:10:56,Zakir Hasan,28,Male,Yes,Yes,No,No,No,No,Yes,No,Yes,Both
+9/19/2023 20:11:50,Rayid Hasan Mojumder,22,Male,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Dependent on fast food
+9/19/2023 20:12:28,Rahatul Islam Udoy,15,Male,No,Yes,No,No,No,No,No,No,No,Nutritious
+9/19/2023 20:13:02,Tanjum Rahi Akanto,18,Female,No,Yes,No,No,No,No,No,No,No,Nutritious
+9/19/2023 20:13:35,Asif Hasan,30,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Dependent on fast food
+9/19/2023 20:14:13,Sanjida Alam,19,Female,Yes,Yes,No,Yes,No,No,Yes,No,No,Nutritious
+9/19/2023 20:15:04,Naimur Rahman,16,Male,No,No,No,No,No,No,No,No,No,Nutritious
+9/19/2023 20:15:44,Khyrun Nesa Nesha,24,Female,No,No,No,No,No,No,No,No,No,Nutritious
+9/19/2023 20:16:38,Ashique-E-Elahi Sadi,26,Male,Yes,No,No,Yes,No,No,Yes,No,Yes,Both
+9/19/2023 20:17:32,Jahedul Islam,21,Male,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Dependent on fast food
+9/19/2023 20:18:17,Sagor Hazra,27,Male,No,No,No,No,No,No,No,No,No,Nutritious
+9/19/2023 20:19:10,Tawhid Imran,21,Male,No,Yes,No,Yes,Yes,Yes,No,No,No,Dependent on fast food
+9/19/2023 20:19:54,Ibrahim Ahmed,30,Male,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Both
+9/19/2023 20:20:29,Anup Kumar Modak,28,Male,No,No,No,No,No,No,No,No,No,Nutritious
+9/19/2023 20:21:26,Mostary Begum,30,Female,No,Yes,No,No,No,No,No,No,No,Nutritious
+9/19/2023 20:22:08,Johirul,25,Female,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 20:22:53,Syed Akhter Hossain,29,Male,Yes,No,No,No,No,Yes,Yes,No,No,Both
+9/19/2023 20:23:43,Rahmatul Amin,27,Male,Yes,Yes,No,No,No,Yes,Yes,No,No,Both
+9/19/2023 20:24:47,Sahinur,19,Female,No,No,No,No,No,No,No,No,No,Nutritious
+9/19/2023 20:26:31,Bimal Chandra Das,24,Male,Yes,No,No,Yes,Yes,No,No,No,Yes,Nutritious
+9/19/2023 20:27:33,Sheshanur,21,Male,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Nutritious
+9/19/2023 20:28:14,Touhid Bhuiyan,30,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Dependent on fast food
+9/19/2023 20:29:09,Shimul Ahsanul,28,Male,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Nutritious
+9/19/2023 20:29:59,Bibhuti Roy,20,Male,No,Yes,No,No,No,No,No,No,Yes,Nutritious
+9/19/2023 20:30:47,Shofiq Ul Ismail,19,Male,No,No,No,No,No,No,No,No,No,Nutritious
+9/19/2023 20:32:22,Neil Perez Balba,28,Male,Yes,No,No,No,No,No,Yes,No,Yes,Both
+9/19/2023 20:33:09,Subhan Mia,29,Male,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Both
+9/19/2023 20:33:51,Kudrot Sarkar,26,Male,No,Yes,No,Yes,Yes,Yes,No,No,No,Both
+9/19/2023 20:34:21,Subramanya,26,Male,Yes,No,No,No,No,Yes,Yes,No,Yes,Both
+9/19/2023 20:35:15,Kumed Hasan,29,Male,Yes,No,No,No,No,Yes,Yes,No,Yes,Both
+9/19/2023 20:35:54,Zadid Hasan,17,Male,No,Yes,No,No,No,No,No,No,No,Nutritious
+9/19/2023 20:36:30,Kulsum Ara,28,Female,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Both
+9/19/2023 20:37:12,Sabbir salman,26,Male,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Dependent on fast food
+9/19/2023 20:42:17,Noman Sarker,25,Male,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Dependent on fast food
+9/19/2023 20:42:41,Pial Hasan,21,Male,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Dependent on fast food
+9/19/2023 20:43:16,Kamal Fardin,30,Male,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Nutritious
+9/19/2023 20:43:43,Jamal Hasan,26,Male,No,No,No,No,No,No,No,No,No,Nutritious
+9/19/2023 20:44:21,Fokhray Hasan,19,Male,No,Yes,No,No,Yes,No,No,No,No,Nutritious
+9/19/2023 20:45:23,Md Shafayat,17,Male,No,Yes,No,No,No,No,No,No,No,Nutritious
+9/19/2023 20:45:56,Sunaiya,19,Female,No,No,No,Yes,Yes,Yes,Yes,No,No,Both
+9/19/2023 20:46:09,Sabbir Jibayer,21,Male,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Both
+9/19/2023 20:46:39,Hoshne Ara,30,Female,Yes,Yes,No,No,No,Yes,Yes,No,No,Both
+9/19/2023 20:46:47,Latif Akbar,30,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 20:47:24,Abdullah Hossain,22,Male,No,No,No,No,No,No,No,No,No,Both
+9/19/2023 20:47:24,Sultana Fardin,25,Female,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Both
+9/19/2023 20:48:20,Fariha Tasnim Jaigirdar,28,Female,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Both
+9/19/2023 20:48:26,Shilpi Halder,26,Female,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Both
+9/19/2023 20:49:04,Rizvi Haque,23,Male,No,No,No,No,No,No,No,No,No,Nutritious
+9/19/2023 20:49:10,Subhenur Latif,25,Female,Yes,No,No,Yes,Yes,No,Yes,No,No,Both
+9/19/2023 20:49:32,Kismot Mia,29,Male,Yes,Yes,No,Yes,Yes,No,No,No,No,Nutritious
+9/19/2023 20:50:11,Ara Shams,21,Female,No,No,No,Yes,Yes,Yes,No,No,No,Nutritious
+9/19/2023 20:50:15,Debasish Roy,21,Male,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Both
+9/19/2023 20:50:50,Tapsi Begam,23,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 20:50:58,Hasna Hena,27,Female,Yes,Yes,Yes,No,No,No,Yes,No,Yes,Both
+9/19/2023 20:51:25,Mubtasim Hasan,19,Male,No,Yes,No,No,No,No,No,No,No,Both
+9/19/2023 20:51:56,Samia Nawashi,23,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Both
+9/19/2023 20:52:13,Priyus,21,Male,No,Yes,No,No,No,No,No,No,No,Both
+9/19/2023 20:52:40,Amatul Asha,19,Female,No,Yes,No,No,No,No,No,No,Yes,Both
+9/19/2023 20:53:10,Hasibul Haque,26,Male,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Both
+9/19/2023 20:53:28,Zakia Zaman,17,Female,No,No,No,No,No,No,No,No,Yes,Nutritious
+9/19/2023 20:54:41,Labib Mahmud,28,Male,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Both
+9/19/2023 20:54:48,Shayla Sharmin,29,Female,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Both
+9/19/2023 20:55:30,A B Mitro,17,Male,No,No,No,Yes,Yes,No,Yes,No,No,Both
+9/19/2023 20:55:48,Eshita Khatun,20,Female,No,No,Yes,Yes,No,No,No,Yes,No,Nutritious
+9/19/2023 20:56:00,Farhan Hasan,25,Male,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Both
+9/19/2023 20:56:28,Tapasy Rabeya,17,Female,No,No,No,No,No,No,No,No,No,Both
+9/19/2023 20:56:30,Faruk Sarker,23,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+9/19/2023 20:57:14,Hasan Jemi,26,Male,No,No,No,No,No,No,Yes,No,Yes,Both
+9/19/2023 20:57:37,Zerin Tumpa,26,Female,Yes,No,No,Yes,Yes,No,No,No,Yes,Both
+9/19/2023 20:57:43,Jahan Al Mahbub,25,Male,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 20:58:12,Rakhin Ahmed,26,Male,No,No,No,Yes,Yes,Yes,No,Yes,No,Both
+9/19/2023 20:58:22,Lamia Rukhsara,23,Female,No,No,Yes,No,No,No,Yes,No,Yes,Nutritious
+9/19/2023 20:59:07,Farhan Al Hasan,20,Male,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 20:59:33,Afsar Ali,27,Male,No,No,No,No,No,No,No,Yes,No,Both
+9/19/2023 21:00:43,Sheikh Zayed,26,Male,No,No,No,No,No,Yes,No,No,No,Both
+9/19/2023 21:01:18,Mala Afrin,21,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Both
+9/19/2023 21:01:46,Purbo Shen,25,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 21:02:26,Aadi Arfan,26,Male,No,No,No,No,Yes,No,No,Yes,No,Both
+9/19/2023 21:02:45,Sharun Akter Khushbu,15,Female,No,Yes,No,No,No,No,No,No,Yes,Nutritious
+9/19/2023 21:02:51,Pritilota Mozumdar,26,Female,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Both
+9/19/2023 21:03:41,Ovi Dash,26,Male,Yes,Yes,Yes,No,No,No,No,No,No,Both
+9/19/2023 21:03:47,Johora Akter Polin,23,Female,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Both
+9/19/2023 21:04:10,Shoriful Afsar,25,Male,No,No,No,No,No,No,No,No,No,Both
+9/19/2023 21:04:36,Lata Akter,30,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Both
+9/19/2023 21:04:49,Barisha Afroz,21,Female,No,No,No,No,No,No,No,No,No,Both
+9/19/2023 21:05:06,Moriom,25,Female,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 21:05:37,Onik Kormokar,27,Male,No,No,No,No,No,No,No,No,No,Both
+9/19/2023 21:06:04,Aman Rahman,25,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 21:06:24,Soptoeshi,24,Female,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Both
+9/19/2023 21:06:44,Prisma Shen,27,Female,No,Yes,No,No,Yes,No,Yes,No,No,Both
+9/19/2023 21:07:19,Kulsum Ara,30,Female,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 21:07:22,Irin Akter,20,Female,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Both
+9/19/2023 21:07:51,Srijon Datta,25,Male,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Both
+9/19/2023 21:08:09,Kulsum Ara,27,Female,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Both
+9/19/2023 21:08:22,Gagan Hasan,26,Male,No,Yes,Yes,No,No,No,No,No,No,Both
+9/19/2023 21:08:59,Mridul Hasan,29,Male,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Both
+9/19/2023 21:09:11,Tazrin Tabassum,19,Female,No,Yes,No,No,No,Yes,Yes,No,No,Nutritious
+9/19/2023 21:09:35,Tahnim Dewan,28,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Nutritious
+9/19/2023 21:09:58,Talha,26,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Nutritious
+9/19/2023 21:10:19,Silpi Shen,19,Female,No,Yes,No,No,No,Yes,Yes,No,Yes,Both
+9/19/2023 21:10:40,Asifur Rahman,26,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 21:11:10,Prity,18,Female,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Nutritious
+9/19/2023 21:11:15,Nabid Anjum,26,Male,Yes,No,Yes,No,No,Yes,No,No,No,Nutritious
+9/19/2023 21:11:48,Sadman Efti,27,Male,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Both
+9/19/2023 21:11:59,Megh,22,Female,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Nutritious
+9/19/2023 21:12:18,Mafiul Alam Ovi,15,Male,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Both
+9/19/2023 21:12:42,Labiha,18,Female,No,Yes,No,No,No,No,Yes,No,Yes,Nutritious
+9/19/2023 21:12:52,Jagat Sheikh,26,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 21:13:24,Disha Haldar,20,Female,Yes,No,No,No,No,No,Yes,No,No,Both
+9/19/2023 21:13:25,Amir Hamza,20,Male,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Both
+9/19/2023 21:13:54,Raisha Akter,15,Female,Yes,Yes,No,No,Yes,No,Yes,No,No,Nutritious
+9/19/2023 21:13:56,Hanif Sarker,25,Male,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Both
+9/19/2023 21:14:28,Rabiul Alam Sarker,23,Male,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Nutritious
+9/19/2023 21:14:50,Padma Akter,29,Female,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Both
+9/19/2023 21:14:56,Hridoy Rahman,26,Male,No,No,No,No,No,No,No,No,No,Nutritious
+9/19/2023 21:15:27,Mawa koli,22,Female,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Dependent on fast food
+9/19/2023 21:15:40,Emtiyaz Zadid,26,Male,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Nutritious
+9/19/2023 21:16:04,Abid Hasan,26,Male,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Both
+1/2/2024 21:22:37,Amjad Kamal,30,Male,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Both
+1/2/2024 21:23:47,Zakia sathi,22,Female,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Dependent on fast food
+1/2/2024 21:24:25,Jinia Ahmed,20,Female,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Both
+1/2/2024 21:25:20,Shafikur Rahman,19,Male,No,No,No,Yes,Yes,No,Yes,No,Yes,Both
+1/2/2024 21:26:23,Farjana Aovi,23,Female,Yes,No,No,Yes,Yes,No,Yes,No,No,Both
+1/2/2024 21:27:18,Tahmina Afroz,18,Female,No,Yes,No,No,No,No,Yes,No,No,Both
+1/2/2024 21:28:10,Nazneen ahmeda,22,Female,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Dependent on fast food
+1/2/2024 21:28:54,Ether Afruz,18,Female,No,No,No,No,No,No,No,No,No,Nutritious
+1/2/2024 21:29:34,Pollob Shuvo,20,Male,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Both
+1/2/2024 21:30:25,Arpita khatun,28,Female,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Both
+1/2/2024 21:31:07,Galib Hasan,27,Male,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Both
+1/2/2024 21:31:57,Ishtiaque,16,Male,No,No,No,No,No,No,Yes,No,No,Both
+1/2/2024 21:32:36,Subrato Barmon,30,Male,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Both
+1/2/2024 21:37:18,Kumar Mondal,30,Male,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Both
