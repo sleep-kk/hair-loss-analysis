@@ -1,0 +1,11 @@
+factor,dataset,p,sig,direction,sign,label,detail
+Age,Mendeley,1.3249744508275656e-23,True,1,1,+,有脱发 24.9 vs 无 21.6
+Age,Kaggle,0.04834870680582117,True,-1,-1,-,有脱发 33.6 vs 无 34.8
+Age,UCI,1.9388945966404895e-06,True,1,1,+,有脱发 53.8 vs 无 46.1
+Gender,Mendeley,0.020485643639048985,True,-1,-1,-,"Female=73%, Male=64%"
+Gender,UCI,1.6303361118435846e-07,True,1,1,+,"Female=14%, Male=48%"
+Stress,Mendeley,6.922263042748367e-41,True,1,1,+,"No=30%, Yes=82%"
+Stress,Kaggle,0.6198599930985773,False,1,0,ns,"High=49%, Low=49%, Moderate=52%"
+Stress,Luke,5.004863316439473e-59,True,1,1,+,"High=67%, Low=0%, Medium=4%, Very High=84%"
+Family History,Mendeley,2.143301468019923e-30,True,1,1,+,"No=34%, Yes=80%"
+Family History,Kaggle,0.21412303866996626,False,1,0,ns,"No=48%, Yes=52%"

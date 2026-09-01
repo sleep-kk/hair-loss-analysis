@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>脱发影响因素分析与可视化系统</title>
+<style>
+  :root {
+    --primary: #2c3e50;
+    --accent: #4C72B0;
+    --danger: #C44E52;
+    --bg: #f5f7fa;
+    --card: #ffffff;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: "Microsoft YaHei", "PingFang SC", sans-serif;
+    background: var(--bg);
+    color: #333;
+    line-height: 1.6;
+  }
+  header {
+    background: linear-gradient(135deg, #2c3e50 0%, #4C72B0 100%);
+    color: #fff;
+    padding: 48px 24px;
+    text-align: center;
+  }
+  header h1 { font-size: 2.2rem; margin-bottom: 12px; }
+  header p { font-size: 1.05rem; opacity: .9; max-width: 760px; margin: 0 auto; }
+  .container { max-width: 1100px; margin: 0 auto; padding: 32px 20px 60px; }
+  .module { margin-bottom: 44px; }
+  .module-header {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 18px;
+    padding-bottom: 10px;
+    border-bottom: 3px solid var(--accent);
+  }
+  .module-header .tag {
+    background: var(--accent);
+    color: #fff;
+    font-weight: bold;
+    padding: 4px 12px;
+    border-radius: 6px;
+    font-size: .9rem;
+    white-space: nowrap;
+  }
+  .module-header h2 { font-size: 1.4rem; color: var(--primary); }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 20px;
+  }
+  .card {
+    background: var(--card);
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,.08);
+    transition: transform .15s, box-shadow .15s;
+  }
+  .card:hover { transform: translateY(-3px); box-shadow: 0 6px 18px rgba(0,0,0,.12); }
+  .card img { width: 100%; display: block; background: #fff; }
+  .card figcaption {
+    padding: 12px 14px;
+    font-size: .92rem;
+    color: #555;
+    border-top: 1px solid #eee;
+  }
+  .card figcaption b { color: var(--primary); }
+  .m6-findings {
+    background: var(--card);
+    border-radius: 10px;
+    padding: 18px 22px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 8px rgba(0,0,0,.08);
+    font-size: .95rem;
+    color: #555;
+  }
+  .m6-findings p { margin: 6px 0; }
+  .m6-findings b { color: var(--primary); }
+  .m6-sankey iframe {
+    width: 100%;
+    height: 640px;
+    border: none;
+    border-radius: 10px;
+    background: #fff;
+    box-shadow: 0 2px 8px rgba(0,0,0,.08);
+  }
+  footer {
+    text-align: center;
+    color: #999;
+    font-size: .85rem;
+    padding: 24px;
+    border-top: 1px solid #e0e0e0;
+    background: #fff;
+  }
+  @media (max-width: 640px) {
+    .grid { grid-template-columns: 1fr; }
+    header h1 { font-size: 1.6rem; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>脱发影响因素分析与可视化系统</h1>
+  <p>基于 4 个公开数据集的完整分析流程：数据画像 → 单因素 → 多因素关联 → 预测模型 → 跨数据集验证 → 跨疾病关联</p>
+</header>
+
+<div class="container">
+
+  <!-- 模块1 -->
+  <section class="module">
+    <div class="module-header"><span class="tag">M1</span><h2>数据画像与质量评估</h2></div>
+    <div class="grid">
+      <figure class="card"><img src="reports/figures/01_dataset_size_comparison.png" alt="数据集规模"><figcaption><b>数据集规模对比</b> — 四个数据集的样本量概览</figcaption></figure>
+      <figure class="card"><img src="reports/figures/01_field_coverage_matrix.png" alt="字段覆盖"><figcaption><b>字段覆盖矩阵</b> — 各数据集字段的可用情况</figcaption></figure>
+      <figure class="card"><img src="reports/figures/01_missing_values_comparison.png" alt="缺失值"><figcaption><b>缺失值对比</b> — 各数据集的缺失情况</figcaption></figure>
+      <figure class="card"><img src="reports/figures/01_target_distribution.png" alt="目标分布"><figcaption><b>目标变量分布</b> — 脱发 / 未脱发比例</figcaption></figure>
+    </div>
+  </section>
+
+  <!-- 模块2 -->
+  <section class="module">
+    <div class="module-header"><span class="tag">M2</span><h2>单因素分析</h2></div>
+    <div class="grid">
+      <figure class="card"><img src="reports/figures/02_age_vs_hairloss.png" alt="年龄"><figcaption><b>年龄与脱发</b></figcaption></figure>
+      <figure class="card"><img src="reports/figures/02_gender_vs_hairloss.png" alt="性别"><figcaption><b>性别与脱发</b></figcaption></figure>
+      <figure class="card"><img src="reports/figures/02_genetics_vs_hairloss.png" alt="遗传"><figcaption><b>遗传与脱发</b></figcaption></figure>
+      <figure class="card"><img src="reports/figures/02_smoking_vs_hairloss.png" alt="吸烟"><figcaption><b>吸烟与脱发</b></figcaption></figure>
+      <figure class="card"><img src="reports/figures/02_stress_vs_hairloss.png" alt="压力"><figcaption><b>压力与脱发</b></figcaption></figure>
+      <figure class="card"><img src="reports/figures/02_mendeley_lifestyle_factors.png" alt="生活方式"><figcaption><b>生活方式因素</b> — 熬夜 / 睡眠 / 水质 / 化学品 / 贫血</figcaption></figure>
+    </div>
+  </section>
+
+  <!-- 模块3 -->
+  <section class="module">
+    <div class="module-header"><span class="tag">M3</span><h2>多因素关联分析</h2></div>
+    <div class="grid">
+      <figure class="card"><img src="reports/figures/03_association_heatmap.png" alt="关联热力图"><figcaption><b>特征关联热力图</b> — Cramér's V 关联强度</figcaption></figure>
+      <figure class="card"><img src="reports/figures/03_interaction_bar.png" alt="交互效应"><figcaption><b>交互效应</b> — 因素组合的脱发比例</figcaption></figure>
+      <figure class="card"><img src="reports/figures/03_combination_risk.png" alt="高危组合"><figcaption><b>高危组合风险</b> — 因素组合脱发率排序</figcaption></figure>
+    </div>
+  </section>
+
+  <!-- 模块4 -->
+  <section class="module">
+    <div class="module-header"><span class="tag">M4</span><h2>预测模型</h2></div>
+    <div class="grid">
+      <figure class="card"><img src="reports/figures/04_roc_curves.png" alt="ROC曲线"><figcaption><b>ROC 曲线</b> — 5 个模型对比</figcaption></figure>
+      <figure class="card"><img src="reports/figures/04_confusion_matrix.png" alt="混淆矩阵"><figcaption><b>混淆矩阵</b> — 最优模型</figcaption></figure>
+      <figure class="card"><img src="reports/figures/04_feature_importance.png" alt="特征重要性"><figcaption><b>特征重要性</b> — 风险因素排序</figcaption></figure>
+      <figure class="card"><img src="reports/figures/04_calibration_curve.png" alt="校准曲线"><figcaption><b>概率校准曲线</b> — Platt Scaling</figcaption></figure>
+      <figure class="card"><img src="reports/figures/04_threshold_tuning.png" alt="阈值调优"><figcaption><b>阈值调优</b> — F-1.5 搜索</figcaption></figure>
+      <figure class="card"><img src="reports/figures/04_shap_summary.png" alt="SHAP全局"><figcaption><b>SHAP 全局重要性</b></figcaption></figure>
+      <figure class="card"><img src="reports/figures/04_shap_dependence.png" alt="SHAP依赖"><figcaption><b>SHAP 依赖图</b> — 特征交互</figcaption></figure>
+      <figure class="card"><img src="reports/figures/04_shap_waterfall.png" alt="SHAP个体"><figcaption><b>SHAP 个体解释</b> — 高风险样本</figcaption></figure>
+    </div>
+  </section>
+
+  <!-- 模块5 -->
+  <section class="module">
+    <div class="module-header"><span class="tag">M5</span><h2>跨数据集验证</h2></div>
+    <div class="grid">
+      <figure class="card"><img src="reports/figures/05_consistency_heatmap.png" alt="一致性"><figcaption><b>单因素一致性对比</b> — 跨数据源</figcaption></figure>
+      <figure class="card"><img src="reports/figures/05_transfer_roc.png" alt="迁移ROC"><figcaption><b>迁移学习 ROC</b> — Mendeley → Kaggle</figcaption></figure>
+      <figure class="card"><img src="reports/figures/05_lstm_timeseries.png" alt="LSTM时序"><figcaption><b>LSTM 时间序列</b> — Luke 纵向数据</figcaption></figure>
+      <figure class="card"><img src="reports/figures/05_lstm_loss_curve.png" alt="LSTM损失"><figcaption><b>LSTM 训练损失曲线</b></figcaption></figure>
+      <figure class="card"><img src="reports/figures/05_lstm_confusion_matrix.png" alt="LSTM混淆"><figcaption><b>LSTM 分类混淆矩阵</b></figcaption></figure>
+      <figure class="card"><img src="reports/figures/05_lstm_regression_scatter.png" alt="LSTM回归"><figcaption><b>LSTM 严重度回归</b> — 预测 vs 真实</figcaption></figure>
+    </div>
+  </section>
+
+  <!-- 模块6 -->
+  <section class="module">
+    <div class="module-header"><span class="tag">M6</span><h2>跨疾病关联（脱发 × 糖尿病）</h2></div>
+    <div class="m6-findings">
+      <p><b>患病率对比：</b>UCI 数据（去重后 n=251）中，糖尿病组脱发率 <b>29.5%</b>，非糖尿病组 <b>50.0%</b>；糖尿病组反而更低（OR=0.42，p=0.003）。</p>
+      <p><b>共同风险因素：</b>「肥胖与体重」（体重骤降，OR=7.08）是脱发与糖尿病共享且显著的风险因素。</p>
+    </div>
+    <div class="m6-sankey">
+      <iframe src="reports/m6_sankey.html" loading="lazy" title="M6 桑基图"></iframe>
+    </div>
+  </section>
+
+</div>
+
+<footer>
+  脱发影响因素分析与可视化系统 · 双击 index.html 即可离线查看全部分析图表
+</footer>
+
+</body>
+</html>

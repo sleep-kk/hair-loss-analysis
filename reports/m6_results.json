@@ -1,0 +1,221 @@
+{
+  "prevalence": {
+    "uci_alopecia_rate_positive": 0.295,
+    "uci_alopecia_rate_negative": 0.5,
+    "chi2": 8.97,
+    "p_value": 0.002743530020564671,
+    "odds_ratio": 0.42,
+    "odds_ratio_ci95": [
+      0.24,
+      0.73
+    ],
+    "background_hair_loss_rate": {
+      "kaggle_hair_health": 0.497,
+      "mendeley_survey": 0.673,
+      "luke_severe": 0.16
+    },
+    "n": {
+      "positive": 173,
+      "negative": 78,
+      "unique_total": 251
+    }
+  },
+  "risk_factor_dictionary": [
+    {
+      "factor": "压力",
+      "hair_sources": [
+        "kaggle_hair_health",
+        "luke_hair_loss",
+        "mendeley_survey"
+      ],
+      "diabetes_significant": false,
+      "shared": false
+    },
+    {
+      "factor": "熬夜与睡眠",
+      "hair_sources": [
+        "luke_hair_loss",
+        "mendeley_survey"
+      ],
+      "diabetes_significant": false,
+      "shared": false
+    },
+    {
+      "factor": "吸烟",
+      "hair_sources": [
+        "kaggle_hair_health"
+      ],
+      "diabetes_significant": false,
+      "shared": false
+    },
+    {
+      "factor": "年龄",
+      "hair_sources": [
+        "kaggle_hair_health",
+        "mendeley_survey"
+      ],
+      "diabetes_significant": false,
+      "shared": false
+    },
+    {
+      "factor": "肥胖与体重",
+      "hair_sources": [
+        "kaggle_hair_health"
+      ],
+      "diabetes_significant": true,
+      "shared": true
+    },
+    {
+      "factor": "遗传/家族史",
+      "hair_sources": [
+        "kaggle_hair_health",
+        "mendeley_survey"
+      ],
+      "diabetes_significant": false,
+      "shared": false
+    },
+    {
+      "factor": "慢性病史",
+      "hair_sources": [
+        "kaggle_hair_health",
+        "mendeley_survey"
+      ],
+      "diabetes_significant": false,
+      "shared": false
+    },
+    {
+      "factor": "营养缺乏/贫血",
+      "hair_sources": [
+        "kaggle_hair_health",
+        "mendeley_survey"
+      ],
+      "diabetes_significant": false,
+      "shared": false
+    },
+    {
+      "factor": "激素/内分泌",
+      "hair_sources": [
+        "kaggle_hair_health"
+      ],
+      "diabetes_significant": false,
+      "shared": false
+    }
+  ],
+  "diabetes_risk_factors": [
+    {
+      "factor": "Polyuria",
+      "odds_ratio_diabetes": 40.31,
+      "chi2": 94.12,
+      "p_value": 2.962616054637455e-22,
+      "significant": true
+    },
+    {
+      "factor": "Polydipsia",
+      "odds_ratio_diabetes": 41.89,
+      "chi2": 86.19,
+      "p_value": 1.6311284467104807e-20,
+      "significant": true
+    },
+    {
+      "factor": "sudden weight loss",
+      "odds_ratio_diabetes": 7.08,
+      "chi2": 33.22,
+      "p_value": 8.217540858596754e-09,
+      "significant": true
+    },
+    {
+      "factor": "weakness",
+      "odds_ratio_diabetes": 1.94,
+      "chi2": 5.01,
+      "p_value": 0.025159327878981584,
+      "significant": true
+    },
+    {
+      "factor": "Polyphagia",
+      "odds_ratio_diabetes": 4.46,
+      "chi2": 23.84,
+      "p_value": 1.0475387499079098e-06,
+      "significant": true
+    },
+    {
+      "factor": "Genital thrush",
+      "odds_ratio_diabetes": 2.92,
+      "chi2": 8.26,
+      "p_value": 0.004056786831463501,
+      "significant": true
+    },
+    {
+      "factor": "visual blurring",
+      "odds_ratio_diabetes": 2.48,
+      "chi2": 9.11,
+      "p_value": 0.0025356231776834815,
+      "significant": true
+    },
+    {
+      "factor": "Itching",
+      "odds_ratio_diabetes": 0.89,
+      "chi2": 0.08,
+      "p_value": 0.7779225686466023,
+      "significant": false
+    },
+    {
+      "factor": "Irritability",
+      "odds_ratio_diabetes": 5.01,
+      "chi2": 16.87,
+      "p_value": 4.003440112604765e-05,
+      "significant": true
+    },
+    {
+      "factor": "delayed healing",
+      "odds_ratio_diabetes": 1.24,
+      "chi2": 0.41,
+      "p_value": 0.5224669283472492,
+      "significant": false
+    },
+    {
+      "factor": "partial paresis",
+      "odds_ratio_diabetes": 5.97,
+      "chi2": 31.03,
+      "p_value": 2.5348719173789536e-08,
+      "significant": true
+    },
+    {
+      "factor": "muscle stiffness",
+      "odds_ratio_diabetes": 1.68,
+      "chi2": 2.77,
+      "p_value": 0.09599734216521032,
+      "significant": false
+    },
+    {
+      "factor": "Obesity",
+      "odds_ratio_diabetes": 1.66,
+      "chi2": 1.3,
+      "p_value": 0.2550126943574814,
+      "significant": false
+    },
+    {
+      "factor": "Age",
+      "mean_positive": 49.3,
+      "mean_negative": 47.9,
+      "mannwhitney_p": 0.4013569458595144,
+      "significant": false
+    }
+  ],
+  "shared_significant_factors": [
+    {
+      "factor": "肥胖与体重",
+      "uci_columns": [
+        "sudden weight loss"
+      ],
+      "hair_sources": [
+        "kaggle_hair_health"
+      ]
+    }
+  ],
+  "jaccard_overlap": 0.111,
+  "sankey": {
+    "file": "reports/m6_sankey.html",
+    "nodes": 15,
+    "links": 14
+  }
+}
